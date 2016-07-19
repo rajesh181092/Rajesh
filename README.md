@@ -1,2 +1,0 @@
-# Rajesh
-new repository
